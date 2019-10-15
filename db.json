@@ -2,30 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Post 1",
+      "body": "Salam saalm salam Lorem ipsum dolro sit amet adipiscing"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Post 2",
+      "body": "Salam saalm salam Lorem ipsum dolro sit amet adipiscing"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Post 3",
+      "body": "Salam saalm salam Lorem ipsum dolro sit amet adipiscing"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
